@@ -1,0 +1,17 @@
+// Importaciones de las paginas
+
+// UTILIDADES
+// las variables siempre van al inicio
+@import './utilidades/variables';
+@import './utilidades/reseteo';
+@import './utilidades/extend';
+
+// SECCIONES DE CODIGO
+@import './secciones/header';
+@import './secciones/index.scss';
+@import './secciones/nosotros';
+@import './secciones/catalogo';
+@import './secciones/blog.scss';
+@import './secciones/contacto';
+@import './secciones/footer';
+@import './secciones/media_query';
